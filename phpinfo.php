@@ -6,7 +6,7 @@
 <? php
 
 echo phpinfo();
-echo "modificacion"
+echo "modificacion";
 
 ?>
 </BODY>
